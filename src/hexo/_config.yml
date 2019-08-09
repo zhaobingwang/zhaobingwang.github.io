@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
+title: 南吕之四的博客
+subtitle: 南吕之四
+description: 南吕之四
+keywords: 赵炳旺,zhaobingwang,赵炳旺的博客,.NET,.NET Core,C#,南吕之四的博客
+author: ZhaoBingwang
+language: zh-CN
 timezone:
 
 # URL
