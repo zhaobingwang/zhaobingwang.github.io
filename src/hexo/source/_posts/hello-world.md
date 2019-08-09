@@ -1,6 +1,7 @@
 ---
 title: Hello World
 categories: Hello World
+comments: true
 tags:
     - B
 ---
