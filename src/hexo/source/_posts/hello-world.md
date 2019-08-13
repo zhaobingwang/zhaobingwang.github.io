@@ -2,6 +2,7 @@
 title: Hello World
 categories: Hello World
 comments: true
+date: 2000-08-04 00:52:46
 tags:
     - B
 ---
