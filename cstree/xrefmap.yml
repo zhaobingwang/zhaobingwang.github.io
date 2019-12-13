@@ -1,0 +1,97 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CSTree
+  name: CSTree
+  href: api/CSTree.html
+  commentId: N:CSTree
+  fullName: CSTree
+  nameWithType: CSTree
+- uid: CSTree.BCLExtensions
+  name: BCLExtensions
+  href: api/CSTree.BCLExtensions.html
+  commentId: T:CSTree.BCLExtensions
+  fullName: CSTree.BCLExtensions
+  nameWithType: BCLExtensions
+- uid: CSTree.BCLExtensions.ToChineseDateString(System.DateTime)
+  name: ToChineseDateString(DateTime)
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToChineseDateString_System_DateTime_
+  commentId: M:CSTree.BCLExtensions.ToChineseDateString(System.DateTime)
+  fullName: CSTree.BCLExtensions.ToChineseDateString(System.DateTime)
+  nameWithType: BCLExtensions.ToChineseDateString(DateTime)
+- uid: CSTree.BCLExtensions.ToChineseDateString(System.Nullable{System.DateTime})
+  name: ToChineseDateString(Nullable<DateTime>)
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToChineseDateString_System_Nullable_System_DateTime__
+  commentId: M:CSTree.BCLExtensions.ToChineseDateString(System.Nullable{System.DateTime})
+  name.vb: ToChineseDateString(Nullable(Of DateTime))
+  fullName: CSTree.BCLExtensions.ToChineseDateString(System.Nullable<System.DateTime>)
+  fullName.vb: CSTree.BCLExtensions.ToChineseDateString(System.Nullable(Of System.DateTime))
+  nameWithType: BCLExtensions.ToChineseDateString(Nullable<DateTime>)
+  nameWithType.vb: BCLExtensions.ToChineseDateString(Nullable(Of DateTime))
+- uid: CSTree.BCLExtensions.ToChineseDateString*
+  name: ToChineseDateString
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToChineseDateString_
+  commentId: Overload:CSTree.BCLExtensions.ToChineseDateString
+  isSpec: "True"
+  fullName: CSTree.BCLExtensions.ToChineseDateString
+  nameWithType: BCLExtensions.ToChineseDateString
+- uid: CSTree.BCLExtensions.ToChineseDateTimeString(System.DateTime)
+  name: ToChineseDateTimeString(DateTime)
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToChineseDateTimeString_System_DateTime_
+  commentId: M:CSTree.BCLExtensions.ToChineseDateTimeString(System.DateTime)
+  fullName: CSTree.BCLExtensions.ToChineseDateTimeString(System.DateTime)
+  nameWithType: BCLExtensions.ToChineseDateTimeString(DateTime)
+- uid: CSTree.BCLExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
+  name: ToChineseDateTimeString(Nullable<DateTime>)
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToChineseDateTimeString_System_Nullable_System_DateTime__
+  commentId: M:CSTree.BCLExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
+  name.vb: ToChineseDateTimeString(Nullable(Of DateTime))
+  fullName: CSTree.BCLExtensions.ToChineseDateTimeString(System.Nullable<System.DateTime>)
+  fullName.vb: CSTree.BCLExtensions.ToChineseDateTimeString(System.Nullable(Of System.DateTime))
+  nameWithType: BCLExtensions.ToChineseDateTimeString(Nullable<DateTime>)
+  nameWithType.vb: BCLExtensions.ToChineseDateTimeString(Nullable(Of DateTime))
+- uid: CSTree.BCLExtensions.ToChineseDateTimeString*
+  name: ToChineseDateTimeString
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToChineseDateTimeString_
+  commentId: Overload:CSTree.BCLExtensions.ToChineseDateTimeString
+  isSpec: "True"
+  fullName: CSTree.BCLExtensions.ToChineseDateTimeString
+  nameWithType: BCLExtensions.ToChineseDateTimeString
+- uid: CSTree.BCLExtensions.ToDateString(System.DateTime)
+  name: ToDateString(DateTime)
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToDateString_System_DateTime_
+  commentId: M:CSTree.BCLExtensions.ToDateString(System.DateTime)
+  fullName: CSTree.BCLExtensions.ToDateString(System.DateTime)
+  nameWithType: BCLExtensions.ToDateString(DateTime)
+- uid: CSTree.BCLExtensions.ToDateString(System.Nullable{System.DateTime})
+  name: ToDateString(Nullable<DateTime>)
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToDateString_System_Nullable_System_DateTime__
+  commentId: M:CSTree.BCLExtensions.ToDateString(System.Nullable{System.DateTime})
+  name.vb: ToDateString(Nullable(Of DateTime))
+  fullName: CSTree.BCLExtensions.ToDateString(System.Nullable<System.DateTime>)
+  fullName.vb: CSTree.BCLExtensions.ToDateString(System.Nullable(Of System.DateTime))
+  nameWithType: BCLExtensions.ToDateString(Nullable<DateTime>)
+  nameWithType.vb: BCLExtensions.ToDateString(Nullable(Of DateTime))
+- uid: CSTree.BCLExtensions.ToDateString*
+  name: ToDateString
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToDateString_
+  commentId: Overload:CSTree.BCLExtensions.ToDateString
+  isSpec: "True"
+  fullName: CSTree.BCLExtensions.ToDateString
+  nameWithType: BCLExtensions.ToDateString
+- uid: CSTree.BCLExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
+  name: ToFriendlyDateString(DateTime, Nullable<DateTime>)
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToFriendlyDateString_System_DateTime_System_Nullable_System_DateTime__
+  commentId: M:CSTree.BCLExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
+  name.vb: ToFriendlyDateString(DateTime, Nullable(Of DateTime))
+  fullName: CSTree.BCLExtensions.ToFriendlyDateString(System.DateTime, System.Nullable<System.DateTime>)
+  fullName.vb: CSTree.BCLExtensions.ToFriendlyDateString(System.DateTime, System.Nullable(Of System.DateTime))
+  nameWithType: BCLExtensions.ToFriendlyDateString(DateTime, Nullable<DateTime>)
+  nameWithType.vb: BCLExtensions.ToFriendlyDateString(DateTime, Nullable(Of DateTime))
+- uid: CSTree.BCLExtensions.ToFriendlyDateString*
+  name: ToFriendlyDateString
+  href: api/CSTree.BCLExtensions.html#CSTree_BCLExtensions_ToFriendlyDateString_
+  commentId: Overload:CSTree.BCLExtensions.ToFriendlyDateString
+  isSpec: "True"
+  fullName: CSTree.BCLExtensions.ToFriendlyDateString
+  nameWithType: BCLExtensions.ToFriendlyDateString
