@@ -1,54 +1,42 @@
 {
   "homepages": [],
-  "source_base_path": "C:/repository/CSTree",
+  "source_base_path": "C:/repository/MySpace/.docfx/MySpace.Utilities/docfx_project",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
-      "type": "Conceptual",
-      "source_relative_path": "README.md",
+      "type": "ManagedReference",
+      "source_relative_path": "api/MySpace.Utilities.Extensions.DateTimeExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "README.html",
-          "hash": "kgQAlbUR7IT1qmxuF7VS1w=="
+          "relative_path": "api/MySpace.Utilities.Extensions.DateTimeExtensions.html",
+          "hash": "ECMQQ7vXZLRK+Ago/RAwnA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CSTree.BCLExtensions.DateTimeExtensions.yml",
+      "source_relative_path": "api/MySpace.Utilities.Extensions.StringExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CSTree.BCLExtensions.DateTimeExtensions.html",
-          "hash": "uUljLFrpfkkGDmB2bvvH7g=="
+          "relative_path": "api/MySpace.Utilities.Extensions.StringExtensions.html",
+          "hash": "OAnWKz2z8SQYLb0Wx+d1EQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CSTree.BCLExtensions.StringExtensions.yml",
+      "source_relative_path": "api/MySpace.Utilities.Extensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CSTree.BCLExtensions.StringExtensions.html",
-          "hash": "kHjIy4Sl8iTrMtyXd/49mw=="
+          "relative_path": "api/MySpace.Utilities.Extensions.html",
+          "hash": "RyLL7XOnjE7ndoj4ZtOizg=="
         }
       },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CSTree.BCLExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CSTree.BCLExtensions.html",
-          "hash": "l3YxOc87Fh3R3S5BATAIbA=="
-        }
-      },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "8z7q37cAe0QpxdlCK7gdiQ=="
+          "hash": "IBepJvo/eyFwdy2oDy+4Mg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,7 +57,31 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "cZ7lBZfLSWWLG2hn7XbosQ=="
+          "hash": "IK34cXxGGDqNVM/LP8t8sQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "OsSfcPGv7h6B8uaK/7fmMw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
         }
       },
       "is_incremental": false,
@@ -81,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Ncgxv4PY91V0LUXTCfq5ZA=="
+          "hash": "Z+X2ybP/WsPLBAfAVo0LSg=="
         }
       },
       "is_incremental": true,
@@ -93,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "wDgNr2bQ8qpIdquWeq5zSA=="
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
         }
       },
       "is_incremental": false,
@@ -123,10 +135,11 @@
           "skipped_file_count": 3
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
+          "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 3
+          "skipped_file_count": 0
         }
       }
     },
