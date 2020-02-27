@@ -1,242 +1,476 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: MySpace.Utilities.Extensions
-  name: MySpace.Utilities.Extensions
-  href: api/MySpace.Utilities.Extensions.html
-  commentId: N:MySpace.Utilities.Extensions
-  fullName: MySpace.Utilities.Extensions
-  nameWithType: MySpace.Utilities.Extensions
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions
+- uid: MySpace.Utilities
+  name: MySpace.Utilities
+  href: api/MySpace.Utilities.html
+  commentId: N:MySpace.Utilities
+  fullName: MySpace.Utilities
+  nameWithType: MySpace.Utilities
+- uid: MySpace.Utilities.DateTimeExtensions
   name: DateTimeExtensions
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html
-  commentId: T:MySpace.Utilities.Extensions.DateTimeExtensions
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions
+  href: api/MySpace.Utilities.DateTimeExtensions.html
+  commentId: T:MySpace.Utilities.DateTimeExtensions
+  fullName: MySpace.Utilities.DateTimeExtensions
   nameWithType: DateTimeExtensions
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
   name: IsAfter(DateTime, DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsAfter_System_DateTime_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsAfter(System.DateTime, System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsAfter_System_DateTime_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.IsAfter(System.DateTime, System.DateTime)
   nameWithType: DateTimeExtensions.IsAfter(DateTime, DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsAfter*
+- uid: MySpace.Utilities.DateTimeExtensions.IsAfter*
   name: IsAfter
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsAfter_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.IsAfter
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsAfter_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsAfter
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsAfter
+  fullName: MySpace.Utilities.DateTimeExtensions.IsAfter
   nameWithType: DateTimeExtensions.IsAfter
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
   name: IsBefore(DateTime, DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsBefore_System_DateTime_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsBefore(System.DateTime, System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsBefore_System_DateTime_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.IsBefore(System.DateTime, System.DateTime)
   nameWithType: DateTimeExtensions.IsBefore(DateTime, DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsBefore*
+- uid: MySpace.Utilities.DateTimeExtensions.IsBefore*
   name: IsBefore
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsBefore_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.IsBefore
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsBefore_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsBefore
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsBefore
+  fullName: MySpace.Utilities.DateTimeExtensions.IsBefore
   nameWithType: DateTimeExtensions.IsBefore
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
+- uid: MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
   name: IsToday(DateTime, Nullable<DateTime>)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsToday_System_DateTime_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsToday_System_DateTime_System_Nullable_System_DateTime__
+  commentId: M:MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
   name.vb: IsToday(DateTime, Nullable(Of DateTime))
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsToday(System.DateTime, System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.Extensions.DateTimeExtensions.IsToday(System.DateTime, System.Nullable(Of System.DateTime))
+  fullName: MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime, System.Nullable<System.DateTime>)
+  fullName.vb: MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime, System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.IsToday(DateTime, Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.IsToday(DateTime, Nullable(Of DateTime))
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsToday*
+- uid: MySpace.Utilities.DateTimeExtensions.IsToday*
   name: IsToday
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsToday_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.IsToday
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsToday_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsToday
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsToday
+  fullName: MySpace.Utilities.DateTimeExtensions.IsToday
   nameWithType: DateTimeExtensions.IsToday
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsWeekend(System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
   name: IsWeekend(DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsWeekend_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.IsWeekend(System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsWeekend(System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsWeekend_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
   nameWithType: DateTimeExtensions.IsWeekend(DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.IsWeekend*
+- uid: MySpace.Utilities.DateTimeExtensions.IsWeekend*
   name: IsWeekend
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_IsWeekend_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.IsWeekend
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsWeekend_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsWeekend
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.IsWeekend
+  fullName: MySpace.Utilities.DateTimeExtensions.IsWeekend
   nameWithType: DateTimeExtensions.IsWeekend
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString(System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
   name: ToChineseDateString(DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToChineseDateString_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString(System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString(System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateString_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
   nameWithType: DateTimeExtensions.ToChineseDateString(DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
+- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
   name: ToChineseDateString(Nullable<DateTime>)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToChineseDateString_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateString_System_Nullable_System_DateTime__
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
   name.vb: ToChineseDateString(Nullable(Of DateTime))
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString(System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString(System.Nullable(Of System.DateTime))
+  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable<System.DateTime>)
+  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToChineseDateString(Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToChineseDateString(Nullable(Of DateTime))
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString*
+- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateString*
   name: ToChineseDateString
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToChineseDateString_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateString_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToChineseDateString
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateString
+  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateString
   nameWithType: DateTimeExtensions.ToChineseDateString
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
   name: ToChineseDateTimeString(DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToChineseDateTimeString_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateTimeString_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
   nameWithType: DateTimeExtensions.ToChineseDateTimeString(DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
+- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
   name: ToChineseDateTimeString(Nullable<DateTime>)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToChineseDateTimeString_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateTimeString_System_Nullable_System_DateTime__
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
   name.vb: ToChineseDateTimeString(Nullable(Of DateTime))
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString(System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString(System.Nullable(Of System.DateTime))
+  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable<System.DateTime>)
+  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToChineseDateTimeString(Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToChineseDateTimeString(Nullable(Of DateTime))
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString*
+- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString*
   name: ToChineseDateTimeString
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToChineseDateTimeString_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateTimeString_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToChineseDateTimeString
+  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString
   nameWithType: DateTimeExtensions.ToChineseDateTimeString
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString(System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
   name: ToDateString(DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToDateString_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString(System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString(System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToDateString_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
   nameWithType: DateTimeExtensions.ToDateString(DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
+- uid: MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
   name: ToDateString(Nullable<DateTime>)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToDateString_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToDateString_System_Nullable_System_DateTime__
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
   name.vb: ToDateString(Nullable(Of DateTime))
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString(System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString(System.Nullable(Of System.DateTime))
+  fullName: MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable<System.DateTime>)
+  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToDateString(Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToDateString(Nullable(Of DateTime))
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString*
+- uid: MySpace.Utilities.DateTimeExtensions.ToDateString*
   name: ToDateString
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToDateString_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToDateString_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToDateString
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToDateString
+  fullName: MySpace.Utilities.DateTimeExtensions.ToDateString
   nameWithType: DateTimeExtensions.ToDateString
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToEndOfDay(System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
   name: ToEndOfDay(DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToEndOfDay_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToEndOfDay(System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToEndOfDay(System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToEndOfDay_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
   nameWithType: DateTimeExtensions.ToEndOfDay(DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToEndOfDay*
+- uid: MySpace.Utilities.DateTimeExtensions.ToEndOfDay*
   name: ToEndOfDay
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToEndOfDay_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.ToEndOfDay
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToEndOfDay_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToEndOfDay
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToEndOfDay
+  fullName: MySpace.Utilities.DateTimeExtensions.ToEndOfDay
   nameWithType: DateTimeExtensions.ToEndOfDay
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
+- uid: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
   name: ToFriendlyDateString(DateTime, Nullable<DateTime>)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToFriendlyDateString_System_DateTime_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToFriendlyDateString_System_DateTime_System_Nullable_System_DateTime__
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
   name.vb: ToFriendlyDateString(DateTime, Nullable(Of DateTime))
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.Extensions.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable(Of System.DateTime))
+  fullName: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable<System.DateTime>)
+  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToFriendlyDateString(DateTime, Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToFriendlyDateString(DateTime, Nullable(Of DateTime))
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToFriendlyDateString*
+- uid: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString*
   name: ToFriendlyDateString
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToFriendlyDateString_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.ToFriendlyDateString
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToFriendlyDateString_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToFriendlyDateString
+  fullName: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString
   nameWithType: DateTimeExtensions.ToFriendlyDateString
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToStartOfDay(System.DateTime)
+- uid: MySpace.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
   name: ToStartOfDay(DateTime)
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToStartOfDay_System_DateTime_
-  commentId: M:MySpace.Utilities.Extensions.DateTimeExtensions.ToStartOfDay(System.DateTime)
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToStartOfDay(System.DateTime)
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToStartOfDay_System_DateTime_
+  commentId: M:MySpace.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
+  fullName: MySpace.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
   nameWithType: DateTimeExtensions.ToStartOfDay(DateTime)
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.ToStartOfDay*
+- uid: MySpace.Utilities.DateTimeExtensions.ToStartOfDay*
   name: ToStartOfDay
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_ToStartOfDay_
-  commentId: Overload:MySpace.Utilities.Extensions.DateTimeExtensions.ToStartOfDay
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToStartOfDay_
+  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToStartOfDay
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.ToStartOfDay
+  fullName: MySpace.Utilities.DateTimeExtensions.ToStartOfDay
   nameWithType: DateTimeExtensions.ToStartOfDay
-- uid: MySpace.Utilities.Extensions.DateTimeExtensions.Weekend
+- uid: MySpace.Utilities.DateTimeExtensions.Weekend
   name: Weekend
-  href: api/MySpace.Utilities.Extensions.DateTimeExtensions.html#MySpace_Utilities_Extensions_DateTimeExtensions_Weekend
-  commentId: F:MySpace.Utilities.Extensions.DateTimeExtensions.Weekend
-  fullName: MySpace.Utilities.Extensions.DateTimeExtensions.Weekend
+  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_Weekend
+  commentId: F:MySpace.Utilities.DateTimeExtensions.Weekend
+  fullName: MySpace.Utilities.DateTimeExtensions.Weekend
   nameWithType: DateTimeExtensions.Weekend
-- uid: MySpace.Utilities.Extensions.StringExtensions
+- uid: MySpace.Utilities.JsonUtil
+  name: JsonUtil
+  href: api/MySpace.Utilities.JsonUtil.html
+  commentId: T:MySpace.Utilities.JsonUtil
+  fullName: MySpace.Utilities.JsonUtil
+  nameWithType: JsonUtil
+- uid: MySpace.Utilities.JsonUtil.ToJson(System.Object)
+  name: ToJson(Object)
+  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToJson_System_Object_
+  commentId: M:MySpace.Utilities.JsonUtil.ToJson(System.Object)
+  fullName: MySpace.Utilities.JsonUtil.ToJson(System.Object)
+  nameWithType: JsonUtil.ToJson(Object)
+- uid: MySpace.Utilities.JsonUtil.ToJson*
+  name: ToJson
+  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToJson_
+  commentId: Overload:MySpace.Utilities.JsonUtil.ToJson
+  isSpec: "True"
+  fullName: MySpace.Utilities.JsonUtil.ToJson
+  nameWithType: JsonUtil.ToJson
+- uid: MySpace.Utilities.JsonUtil.ToObject*
+  name: ToObject
+  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToObject_
+  commentId: Overload:MySpace.Utilities.JsonUtil.ToObject
+  isSpec: "True"
+  fullName: MySpace.Utilities.JsonUtil.ToObject
+  nameWithType: JsonUtil.ToObject
+- uid: MySpace.Utilities.JsonUtil.ToObject``1(System.String)
+  name: ToObject<T>(String)
+  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToObject__1_System_String_
+  commentId: M:MySpace.Utilities.JsonUtil.ToObject``1(System.String)
+  name.vb: ToObject(Of T)(String)
+  fullName: MySpace.Utilities.JsonUtil.ToObject<T>(System.String)
+  fullName.vb: MySpace.Utilities.JsonUtil.ToObject(Of T)(System.String)
+  nameWithType: JsonUtil.ToObject<T>(String)
+  nameWithType.vb: JsonUtil.ToObject(Of T)(String)
+- uid: MySpace.Utilities.Security
+  name: MySpace.Utilities.Security
+  href: api/MySpace.Utilities.Security.html
+  commentId: N:MySpace.Utilities.Security
+  fullName: MySpace.Utilities.Security
+  nameWithType: MySpace.Utilities.Security
+- uid: MySpace.Utilities.Security.Password
+  name: Password
+  href: api/MySpace.Utilities.Security.Password.html
+  commentId: T:MySpace.Utilities.Security.Password
+  fullName: MySpace.Utilities.Security.Password
+  nameWithType: Password
+- uid: MySpace.Utilities.Security.Password.Generate(System.Int32,System.Int32)
+  name: Generate(Int32, Int32)
+  href: api/MySpace.Utilities.Security.Password.html#MySpace_Utilities_Security_Password_Generate_System_Int32_System_Int32_
+  commentId: M:MySpace.Utilities.Security.Password.Generate(System.Int32,System.Int32)
+  fullName: MySpace.Utilities.Security.Password.Generate(System.Int32, System.Int32)
+  nameWithType: Password.Generate(Int32, Int32)
+- uid: MySpace.Utilities.Security.Password.Generate*
+  name: Generate
+  href: api/MySpace.Utilities.Security.Password.html#MySpace_Utilities_Security_Password_Generate_
+  commentId: Overload:MySpace.Utilities.Security.Password.Generate
+  isSpec: "True"
+  fullName: MySpace.Utilities.Security.Password.Generate
+  nameWithType: Password.Generate
+- uid: MySpace.Utilities.StringExtensions
   name: StringExtensions
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html
-  commentId: T:MySpace.Utilities.Extensions.StringExtensions
-  fullName: MySpace.Utilities.Extensions.StringExtensions
+  href: api/MySpace.Utilities.StringExtensions.html
+  commentId: T:MySpace.Utilities.StringExtensions
+  fullName: MySpace.Utilities.StringExtensions
   nameWithType: StringExtensions
-- uid: MySpace.Utilities.Extensions.StringExtensions.IsMatch(System.String,System.String)
+- uid: MySpace.Utilities.StringExtensions.IsMatch(System.String,System.String)
   name: IsMatch(String, String)
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_IsMatch_System_String_System_String_
-  commentId: M:MySpace.Utilities.Extensions.StringExtensions.IsMatch(System.String,System.String)
-  fullName: MySpace.Utilities.Extensions.StringExtensions.IsMatch(System.String, System.String)
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsMatch_System_String_System_String_
+  commentId: M:MySpace.Utilities.StringExtensions.IsMatch(System.String,System.String)
+  fullName: MySpace.Utilities.StringExtensions.IsMatch(System.String, System.String)
   nameWithType: StringExtensions.IsMatch(String, String)
-- uid: MySpace.Utilities.Extensions.StringExtensions.IsMatch*
+- uid: MySpace.Utilities.StringExtensions.IsMatch*
   name: IsMatch
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_IsMatch_
-  commentId: Overload:MySpace.Utilities.Extensions.StringExtensions.IsMatch
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsMatch_
+  commentId: Overload:MySpace.Utilities.StringExtensions.IsMatch
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.StringExtensions.IsMatch
+  fullName: MySpace.Utilities.StringExtensions.IsMatch
   nameWithType: StringExtensions.IsMatch
-- uid: MySpace.Utilities.Extensions.StringExtensions.IsNullOrEmpty(System.String)
+- uid: MySpace.Utilities.StringExtensions.IsNullOrEmpty(System.String)
   name: IsNullOrEmpty(String)
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_IsNullOrEmpty_System_String_
-  commentId: M:MySpace.Utilities.Extensions.StringExtensions.IsNullOrEmpty(System.String)
-  fullName: MySpace.Utilities.Extensions.StringExtensions.IsNullOrEmpty(System.String)
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrEmpty_System_String_
+  commentId: M:MySpace.Utilities.StringExtensions.IsNullOrEmpty(System.String)
+  fullName: MySpace.Utilities.StringExtensions.IsNullOrEmpty(System.String)
   nameWithType: StringExtensions.IsNullOrEmpty(String)
-- uid: MySpace.Utilities.Extensions.StringExtensions.IsNullOrEmpty*
+- uid: MySpace.Utilities.StringExtensions.IsNullOrEmpty*
   name: IsNullOrEmpty
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_IsNullOrEmpty_
-  commentId: Overload:MySpace.Utilities.Extensions.StringExtensions.IsNullOrEmpty
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrEmpty_
+  commentId: Overload:MySpace.Utilities.StringExtensions.IsNullOrEmpty
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.StringExtensions.IsNullOrEmpty
+  fullName: MySpace.Utilities.StringExtensions.IsNullOrEmpty
   nameWithType: StringExtensions.IsNullOrEmpty
-- uid: MySpace.Utilities.Extensions.StringExtensions.IsNullOrWhiteSpace(System.String)
+- uid: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
   name: IsNullOrWhiteSpace(String)
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_IsNullOrWhiteSpace_System_String_
-  commentId: M:MySpace.Utilities.Extensions.StringExtensions.IsNullOrWhiteSpace(System.String)
-  fullName: MySpace.Utilities.Extensions.StringExtensions.IsNullOrWhiteSpace(System.String)
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrWhiteSpace_System_String_
+  commentId: M:MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
+  fullName: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
   nameWithType: StringExtensions.IsNullOrWhiteSpace(String)
-- uid: MySpace.Utilities.Extensions.StringExtensions.IsNullOrWhiteSpace*
+- uid: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace*
   name: IsNullOrWhiteSpace
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_IsNullOrWhiteSpace_
-  commentId: Overload:MySpace.Utilities.Extensions.StringExtensions.IsNullOrWhiteSpace
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrWhiteSpace_
+  commentId: Overload:MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.StringExtensions.IsNullOrWhiteSpace
+  fullName: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace
   nameWithType: StringExtensions.IsNullOrWhiteSpace
-- uid: MySpace.Utilities.Extensions.StringExtensions.Match(System.String,System.String)
+- uid: MySpace.Utilities.StringExtensions.Match(System.String,System.String)
   name: Match(String, String)
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_Match_System_String_System_String_
-  commentId: M:MySpace.Utilities.Extensions.StringExtensions.Match(System.String,System.String)
-  fullName: MySpace.Utilities.Extensions.StringExtensions.Match(System.String, System.String)
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_Match_System_String_System_String_
+  commentId: M:MySpace.Utilities.StringExtensions.Match(System.String,System.String)
+  fullName: MySpace.Utilities.StringExtensions.Match(System.String, System.String)
   nameWithType: StringExtensions.Match(String, String)
-- uid: MySpace.Utilities.Extensions.StringExtensions.Match*
+- uid: MySpace.Utilities.StringExtensions.Match*
   name: Match
-  href: api/MySpace.Utilities.Extensions.StringExtensions.html#MySpace_Utilities_Extensions_StringExtensions_Match_
-  commentId: Overload:MySpace.Utilities.Extensions.StringExtensions.Match
+  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_Match_
+  commentId: Overload:MySpace.Utilities.StringExtensions.Match
   isSpec: "True"
-  fullName: MySpace.Utilities.Extensions.StringExtensions.Match
+  fullName: MySpace.Utilities.StringExtensions.Match
   nameWithType: StringExtensions.Match
+- uid: MySpace.Utilities.Validations
+  name: MySpace.Utilities.Validations
+  href: api/MySpace.Utilities.Validations.html
+  commentId: N:MySpace.Utilities.Validations
+  fullName: MySpace.Utilities.Validations
+  nameWithType: MySpace.Utilities.Validations
+- uid: MySpace.Utilities.Validations.DataAnnotationsValidator
+  name: DataAnnotationsValidator
+  href: api/MySpace.Utilities.Validations.DataAnnotationsValidator.html
+  commentId: T:MySpace.Utilities.Validations.DataAnnotationsValidator
+  fullName: MySpace.Utilities.Validations.DataAnnotationsValidator
+  nameWithType: DataAnnotationsValidator
+- uid: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object,System.Collections.Generic.ICollection{System.ComponentModel.DataAnnotations.ValidationResult})
+  name: Validate(Object, ICollection<ValidationResult>)
+  href: api/MySpace.Utilities.Validations.DataAnnotationsValidator.html#MySpace_Utilities_Validations_DataAnnotationsValidator_Validate_System_Object_System_Collections_Generic_ICollection_System_ComponentModel_DataAnnotations_ValidationResult__
+  commentId: M:MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object,System.Collections.Generic.ICollection{System.ComponentModel.DataAnnotations.ValidationResult})
+  name.vb: Validate(Object, ICollection(Of ValidationResult))
+  fullName: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object, System.Collections.Generic.ICollection<System.ComponentModel.DataAnnotations.ValidationResult>)
+  fullName.vb: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object, System.Collections.Generic.ICollection(Of System.ComponentModel.DataAnnotations.ValidationResult))
+  nameWithType: DataAnnotationsValidator.Validate(Object, ICollection<ValidationResult>)
+  nameWithType.vb: DataAnnotationsValidator.Validate(Object, ICollection(Of ValidationResult))
+- uid: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate*
+  name: Validate
+  href: api/MySpace.Utilities.Validations.DataAnnotationsValidator.html#MySpace_Utilities_Validations_DataAnnotationsValidator_Validate_
+  commentId: Overload:MySpace.Utilities.Validations.DataAnnotationsValidator.Validate
+  isSpec: "True"
+  fullName: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate
+  nameWithType: DataAnnotationsValidator.Validate
+- uid: MySpace.Utilities.Webs
+  name: MySpace.Utilities.Webs
+  href: api/MySpace.Utilities.Webs.html
+  commentId: N:MySpace.Utilities.Webs
+  fullName: MySpace.Utilities.Webs
+  nameWithType: MySpace.Utilities.Webs
+- uid: MySpace.Utilities.Webs.WebUtils
+  name: WebUtils
+  href: api/MySpace.Utilities.Webs.WebUtils.html
+  commentId: T:MySpace.Utilities.Webs.WebUtils
+  fullName: MySpace.Utilities.Webs.WebUtils
+  nameWithType: WebUtils
+- uid: MySpace.Utilities.Webs.WebUtils.#ctor(System.String,System.Int32)
+  name: WebUtils(String, Int32)
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils__ctor_System_String_System_Int32_
+  commentId: M:MySpace.Utilities.Webs.WebUtils.#ctor(System.String,System.Int32)
+  fullName: MySpace.Utilities.Webs.WebUtils.WebUtils(System.String, System.Int32)
+  nameWithType: WebUtils.WebUtils(String, Int32)
+- uid: MySpace.Utilities.Webs.WebUtils.#ctor*
+  name: WebUtils
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils__ctor_
+  commentId: Overload:MySpace.Utilities.Webs.WebUtils.#ctor
+  isSpec: "True"
+  fullName: MySpace.Utilities.Webs.WebUtils.WebUtils
+  nameWithType: WebUtils.WebUtils
+- uid: MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  name: BuildQuery(IDictionary<String, String>, String)
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_BuildQuery_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
+  commentId: M:MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  name.vb: BuildQuery(IDictionary(Of String, String), String)
+  fullName: MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
+  fullName.vb: MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
+  nameWithType: WebUtils.BuildQuery(IDictionary<String, String>, String)
+  nameWithType.vb: WebUtils.BuildQuery(IDictionary(Of String, String), String)
+- uid: MySpace.Utilities.Webs.WebUtils.BuildQuery*
+  name: BuildQuery
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_BuildQuery_
+  commentId: Overload:MySpace.Utilities.Webs.WebUtils.BuildQuery
+  isSpec: "True"
+  fullName: MySpace.Utilities.Webs.WebUtils.BuildQuery
+  nameWithType: WebUtils.BuildQuery
+- uid: MySpace.Utilities.Webs.WebUtils.GetAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  name: GetAsync(String, IDictionary<String, String>, String)
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_GetAsync_System_String_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
+  commentId: M:MySpace.Utilities.Webs.WebUtils.GetAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  name.vb: GetAsync(String, IDictionary(Of String, String), String)
+  fullName: MySpace.Utilities.Webs.WebUtils.GetAsync(System.String, System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
+  fullName.vb: MySpace.Utilities.Webs.WebUtils.GetAsync(System.String, System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
+  nameWithType: WebUtils.GetAsync(String, IDictionary<String, String>, String)
+  nameWithType.vb: WebUtils.GetAsync(String, IDictionary(Of String, String), String)
+- uid: MySpace.Utilities.Webs.WebUtils.GetAsync*
+  name: GetAsync
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_GetAsync_
+  commentId: Overload:MySpace.Utilities.Webs.WebUtils.GetAsync
+  isSpec: "True"
+  fullName: MySpace.Utilities.Webs.WebUtils.GetAsync
+  nameWithType: WebUtils.GetAsync
+- uid: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  name: PostAsync(String, IDictionary<String, String>, String)
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_PostAsync_System_String_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
+  commentId: M:MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  name.vb: PostAsync(String, IDictionary(Of String, String), String)
+  fullName: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String, System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
+  fullName.vb: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String, System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
+  nameWithType: WebUtils.PostAsync(String, IDictionary<String, String>, String)
+  nameWithType.vb: WebUtils.PostAsync(String, IDictionary(Of String, String), String)
+- uid: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.String,System.String)
+  name: PostAsync(String, String, String)
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_PostAsync_System_String_System_String_System_String_
+  commentId: M:MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.String,System.String)
+  fullName: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String, System.String, System.String)
+  nameWithType: WebUtils.PostAsync(String, String, String)
+- uid: MySpace.Utilities.Webs.WebUtils.PostAsync*
+  name: PostAsync
+  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_PostAsync_
+  commentId: Overload:MySpace.Utilities.Webs.WebUtils.PostAsync
+  isSpec: "True"
+  fullName: MySpace.Utilities.Webs.WebUtils.PostAsync
+  nameWithType: WebUtils.PostAsync
+- uid: MySpace.Utilities.XmlSerializeOptions
+  name: XmlSerializeOptions
+  href: api/MySpace.Utilities.XmlSerializeOptions.html
+  commentId: T:MySpace.Utilities.XmlSerializeOptions
+  fullName: MySpace.Utilities.XmlSerializeOptions
+  nameWithType: XmlSerializeOptions
+- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  name: OmitXmlDeclaration
+  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlDeclaration
+  commentId: P:MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  nameWithType: XmlSerializeOptions.OmitXmlDeclaration
+- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration*
+  name: OmitXmlDeclaration
+  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlDeclaration_
+  commentId: Overload:MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  isSpec: "True"
+  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  nameWithType: XmlSerializeOptions.OmitXmlDeclaration
+- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  name: OmitXmlSerializerNamespaces
+  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlSerializerNamespaces
+  commentId: P:MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  nameWithType: XmlSerializeOptions.OmitXmlSerializerNamespaces
+- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces*
+  name: OmitXmlSerializerNamespaces
+  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlSerializerNamespaces_
+  commentId: Overload:MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  isSpec: "True"
+  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  nameWithType: XmlSerializeOptions.OmitXmlSerializerNamespaces
+- uid: MySpace.Utilities.XmlUtil
+  name: XmlUtil
+  href: api/MySpace.Utilities.XmlUtil.html
+  commentId: T:MySpace.Utilities.XmlUtil
+  fullName: MySpace.Utilities.XmlUtil
+  nameWithType: XmlUtil
+- uid: MySpace.Utilities.XmlUtil.ToObject*
+  name: ToObject
+  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToObject_
+  commentId: Overload:MySpace.Utilities.XmlUtil.ToObject
+  isSpec: "True"
+  fullName: MySpace.Utilities.XmlUtil.ToObject
+  nameWithType: XmlUtil.ToObject
+- uid: MySpace.Utilities.XmlUtil.ToObject``1(System.String)
+  name: ToObject<T>(String)
+  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToObject__1_System_String_
+  commentId: M:MySpace.Utilities.XmlUtil.ToObject``1(System.String)
+  name.vb: ToObject(Of T)(String)
+  fullName: MySpace.Utilities.XmlUtil.ToObject<T>(System.String)
+  fullName.vb: MySpace.Utilities.XmlUtil.ToObject(Of T)(System.String)
+  nameWithType: XmlUtil.ToObject<T>(String)
+  nameWithType.vb: XmlUtil.ToObject(Of T)(String)
+- uid: MySpace.Utilities.XmlUtil.ToXml(System.Object,MySpace.Utilities.XmlSerializeOptions)
+  name: ToXml(Object, XmlSerializeOptions)
+  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToXml_System_Object_MySpace_Utilities_XmlSerializeOptions_
+  commentId: M:MySpace.Utilities.XmlUtil.ToXml(System.Object,MySpace.Utilities.XmlSerializeOptions)
+  fullName: MySpace.Utilities.XmlUtil.ToXml(System.Object, MySpace.Utilities.XmlSerializeOptions)
+  nameWithType: XmlUtil.ToXml(Object, XmlSerializeOptions)
+- uid: MySpace.Utilities.XmlUtil.ToXml*
+  name: ToXml
+  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToXml_
+  commentId: Overload:MySpace.Utilities.XmlUtil.ToXml
+  isSpec: "True"
+  fullName: MySpace.Utilities.XmlUtil.ToXml
+  nameWithType: XmlUtil.ToXml
