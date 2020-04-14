@@ -1,476 +1,476 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: MySpace.Utilities
-  name: MySpace.Utilities
-  href: api/MySpace.Utilities.html
-  commentId: N:MySpace.Utilities
-  fullName: MySpace.Utilities
-  nameWithType: MySpace.Utilities
-- uid: MySpace.Utilities.DateTimeExtensions
+- uid: Skyline.Utilities
+  name: Skyline.Utilities
+  href: api/Skyline.Utilities.html
+  commentId: N:Skyline.Utilities
+  fullName: Skyline.Utilities
+  nameWithType: Skyline.Utilities
+- uid: Skyline.Utilities.DateTimeExtensions
   name: DateTimeExtensions
-  href: api/MySpace.Utilities.DateTimeExtensions.html
-  commentId: T:MySpace.Utilities.DateTimeExtensions
-  fullName: MySpace.Utilities.DateTimeExtensions
+  href: api/Skyline.Utilities.DateTimeExtensions.html
+  commentId: T:Skyline.Utilities.DateTimeExtensions
+  fullName: Skyline.Utilities.DateTimeExtensions
   nameWithType: DateTimeExtensions
-- uid: MySpace.Utilities.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
   name: IsAfter(DateTime, DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsAfter_System_DateTime_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.IsAfter(System.DateTime, System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsAfter_System_DateTime_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.IsAfter(System.DateTime,System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.IsAfter(System.DateTime, System.DateTime)
   nameWithType: DateTimeExtensions.IsAfter(DateTime, DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.IsAfter*
+- uid: Skyline.Utilities.DateTimeExtensions.IsAfter*
   name: IsAfter
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsAfter_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsAfter
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsAfter_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.IsAfter
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.IsAfter
+  fullName: Skyline.Utilities.DateTimeExtensions.IsAfter
   nameWithType: DateTimeExtensions.IsAfter
-- uid: MySpace.Utilities.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
   name: IsBefore(DateTime, DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsBefore_System_DateTime_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.IsBefore(System.DateTime, System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsBefore_System_DateTime_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.IsBefore(System.DateTime,System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.IsBefore(System.DateTime, System.DateTime)
   nameWithType: DateTimeExtensions.IsBefore(DateTime, DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.IsBefore*
+- uid: Skyline.Utilities.DateTimeExtensions.IsBefore*
   name: IsBefore
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsBefore_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsBefore
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsBefore_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.IsBefore
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.IsBefore
+  fullName: Skyline.Utilities.DateTimeExtensions.IsBefore
   nameWithType: DateTimeExtensions.IsBefore
-- uid: MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
+- uid: Skyline.Utilities.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
   name: IsToday(DateTime, Nullable<DateTime>)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsToday_System_DateTime_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsToday_System_DateTime_System_Nullable_System_DateTime__
+  commentId: M:Skyline.Utilities.DateTimeExtensions.IsToday(System.DateTime,System.Nullable{System.DateTime})
   name.vb: IsToday(DateTime, Nullable(Of DateTime))
-  fullName: MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime, System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.DateTimeExtensions.IsToday(System.DateTime, System.Nullable(Of System.DateTime))
+  fullName: Skyline.Utilities.DateTimeExtensions.IsToday(System.DateTime, System.Nullable<System.DateTime>)
+  fullName.vb: Skyline.Utilities.DateTimeExtensions.IsToday(System.DateTime, System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.IsToday(DateTime, Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.IsToday(DateTime, Nullable(Of DateTime))
-- uid: MySpace.Utilities.DateTimeExtensions.IsToday*
+- uid: Skyline.Utilities.DateTimeExtensions.IsToday*
   name: IsToday
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsToday_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsToday
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsToday_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.IsToday
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.IsToday
+  fullName: Skyline.Utilities.DateTimeExtensions.IsToday
   nameWithType: DateTimeExtensions.IsToday
-- uid: MySpace.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
   name: IsWeekend(DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsWeekend_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsWeekend_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.IsWeekend(System.DateTime)
   nameWithType: DateTimeExtensions.IsWeekend(DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.IsWeekend*
+- uid: Skyline.Utilities.DateTimeExtensions.IsWeekend*
   name: IsWeekend
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_IsWeekend_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.IsWeekend
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_IsWeekend_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.IsWeekend
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.IsWeekend
+  fullName: Skyline.Utilities.DateTimeExtensions.IsWeekend
   nameWithType: DateTimeExtensions.IsWeekend
-- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
   name: ToChineseDateString(DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateString_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToChineseDateString_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.ToChineseDateString(System.DateTime)
   nameWithType: DateTimeExtensions.ToChineseDateString(DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
+- uid: Skyline.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
   name: ToChineseDateString(Nullable<DateTime>)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateString_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToChineseDateString_System_Nullable_System_DateTime__
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable{System.DateTime})
   name.vb: ToChineseDateString(Nullable(Of DateTime))
-  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable(Of System.DateTime))
+  fullName: Skyline.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable<System.DateTime>)
+  fullName.vb: Skyline.Utilities.DateTimeExtensions.ToChineseDateString(System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToChineseDateString(Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToChineseDateString(Nullable(Of DateTime))
-- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateString*
+- uid: Skyline.Utilities.DateTimeExtensions.ToChineseDateString*
   name: ToChineseDateString
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateString_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToChineseDateString
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToChineseDateString_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.ToChineseDateString
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateString
+  fullName: Skyline.Utilities.DateTimeExtensions.ToChineseDateString
   nameWithType: DateTimeExtensions.ToChineseDateString
-- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
   name: ToChineseDateTimeString(DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateTimeString_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToChineseDateTimeString_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.DateTime)
   nameWithType: DateTimeExtensions.ToChineseDateTimeString(DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
+- uid: Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
   name: ToChineseDateTimeString(Nullable<DateTime>)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateTimeString_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToChineseDateTimeString_System_Nullable_System_DateTime__
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable{System.DateTime})
   name.vb: ToChineseDateTimeString(Nullable(Of DateTime))
-  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable(Of System.DateTime))
+  fullName: Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable<System.DateTime>)
+  fullName.vb: Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString(System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToChineseDateTimeString(Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToChineseDateTimeString(Nullable(Of DateTime))
-- uid: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString*
+- uid: Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString*
   name: ToChineseDateTimeString
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToChineseDateTimeString_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToChineseDateTimeString_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.ToChineseDateTimeString
+  fullName: Skyline.Utilities.DateTimeExtensions.ToChineseDateTimeString
   nameWithType: DateTimeExtensions.ToChineseDateTimeString
-- uid: MySpace.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
   name: ToDateString(DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToDateString_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToDateString_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.ToDateString(System.DateTime)
   nameWithType: DateTimeExtensions.ToDateString(DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
+- uid: Skyline.Utilities.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
   name: ToDateString(Nullable<DateTime>)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToDateString_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToDateString_System_Nullable_System_DateTime__
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToDateString(System.Nullable{System.DateTime})
   name.vb: ToDateString(Nullable(Of DateTime))
-  fullName: MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToDateString(System.Nullable(Of System.DateTime))
+  fullName: Skyline.Utilities.DateTimeExtensions.ToDateString(System.Nullable<System.DateTime>)
+  fullName.vb: Skyline.Utilities.DateTimeExtensions.ToDateString(System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToDateString(Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToDateString(Nullable(Of DateTime))
-- uid: MySpace.Utilities.DateTimeExtensions.ToDateString*
+- uid: Skyline.Utilities.DateTimeExtensions.ToDateString*
   name: ToDateString
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToDateString_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToDateString
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToDateString_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.ToDateString
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.ToDateString
+  fullName: Skyline.Utilities.DateTimeExtensions.ToDateString
   nameWithType: DateTimeExtensions.ToDateString
-- uid: MySpace.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
   name: ToEndOfDay(DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToEndOfDay_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToEndOfDay_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.ToEndOfDay(System.DateTime)
   nameWithType: DateTimeExtensions.ToEndOfDay(DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.ToEndOfDay*
+- uid: Skyline.Utilities.DateTimeExtensions.ToEndOfDay*
   name: ToEndOfDay
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToEndOfDay_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToEndOfDay
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToEndOfDay_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.ToEndOfDay
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.ToEndOfDay
+  fullName: Skyline.Utilities.DateTimeExtensions.ToEndOfDay
   nameWithType: DateTimeExtensions.ToEndOfDay
-- uid: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
+- uid: Skyline.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
   name: ToFriendlyDateString(DateTime, Nullable<DateTime>)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToFriendlyDateString_System_DateTime_System_Nullable_System_DateTime__
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToFriendlyDateString_System_DateTime_System_Nullable_System_DateTime__
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime,System.Nullable{System.DateTime})
   name.vb: ToFriendlyDateString(DateTime, Nullable(Of DateTime))
-  fullName: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable<System.DateTime>)
-  fullName.vb: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable(Of System.DateTime))
+  fullName: Skyline.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable<System.DateTime>)
+  fullName.vb: Skyline.Utilities.DateTimeExtensions.ToFriendlyDateString(System.DateTime, System.Nullable(Of System.DateTime))
   nameWithType: DateTimeExtensions.ToFriendlyDateString(DateTime, Nullable<DateTime>)
   nameWithType.vb: DateTimeExtensions.ToFriendlyDateString(DateTime, Nullable(Of DateTime))
-- uid: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString*
+- uid: Skyline.Utilities.DateTimeExtensions.ToFriendlyDateString*
   name: ToFriendlyDateString
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToFriendlyDateString_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToFriendlyDateString_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.ToFriendlyDateString
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.ToFriendlyDateString
+  fullName: Skyline.Utilities.DateTimeExtensions.ToFriendlyDateString
   nameWithType: DateTimeExtensions.ToFriendlyDateString
-- uid: MySpace.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
+- uid: Skyline.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
   name: ToStartOfDay(DateTime)
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToStartOfDay_System_DateTime_
-  commentId: M:MySpace.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
-  fullName: MySpace.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToStartOfDay_System_DateTime_
+  commentId: M:Skyline.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
+  fullName: Skyline.Utilities.DateTimeExtensions.ToStartOfDay(System.DateTime)
   nameWithType: DateTimeExtensions.ToStartOfDay(DateTime)
-- uid: MySpace.Utilities.DateTimeExtensions.ToStartOfDay*
+- uid: Skyline.Utilities.DateTimeExtensions.ToStartOfDay*
   name: ToStartOfDay
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_ToStartOfDay_
-  commentId: Overload:MySpace.Utilities.DateTimeExtensions.ToStartOfDay
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_ToStartOfDay_
+  commentId: Overload:Skyline.Utilities.DateTimeExtensions.ToStartOfDay
   isSpec: "True"
-  fullName: MySpace.Utilities.DateTimeExtensions.ToStartOfDay
+  fullName: Skyline.Utilities.DateTimeExtensions.ToStartOfDay
   nameWithType: DateTimeExtensions.ToStartOfDay
-- uid: MySpace.Utilities.DateTimeExtensions.Weekend
+- uid: Skyline.Utilities.DateTimeExtensions.Weekend
   name: Weekend
-  href: api/MySpace.Utilities.DateTimeExtensions.html#MySpace_Utilities_DateTimeExtensions_Weekend
-  commentId: F:MySpace.Utilities.DateTimeExtensions.Weekend
-  fullName: MySpace.Utilities.DateTimeExtensions.Weekend
+  href: api/Skyline.Utilities.DateTimeExtensions.html#Skyline_Utilities_DateTimeExtensions_Weekend
+  commentId: F:Skyline.Utilities.DateTimeExtensions.Weekend
+  fullName: Skyline.Utilities.DateTimeExtensions.Weekend
   nameWithType: DateTimeExtensions.Weekend
-- uid: MySpace.Utilities.JsonUtil
+- uid: Skyline.Utilities.JsonUtil
   name: JsonUtil
-  href: api/MySpace.Utilities.JsonUtil.html
-  commentId: T:MySpace.Utilities.JsonUtil
-  fullName: MySpace.Utilities.JsonUtil
+  href: api/Skyline.Utilities.JsonUtil.html
+  commentId: T:Skyline.Utilities.JsonUtil
+  fullName: Skyline.Utilities.JsonUtil
   nameWithType: JsonUtil
-- uid: MySpace.Utilities.JsonUtil.ToJson(System.Object)
+- uid: Skyline.Utilities.JsonUtil.ToJson(System.Object)
   name: ToJson(Object)
-  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToJson_System_Object_
-  commentId: M:MySpace.Utilities.JsonUtil.ToJson(System.Object)
-  fullName: MySpace.Utilities.JsonUtil.ToJson(System.Object)
+  href: api/Skyline.Utilities.JsonUtil.html#Skyline_Utilities_JsonUtil_ToJson_System_Object_
+  commentId: M:Skyline.Utilities.JsonUtil.ToJson(System.Object)
+  fullName: Skyline.Utilities.JsonUtil.ToJson(System.Object)
   nameWithType: JsonUtil.ToJson(Object)
-- uid: MySpace.Utilities.JsonUtil.ToJson*
+- uid: Skyline.Utilities.JsonUtil.ToJson*
   name: ToJson
-  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToJson_
-  commentId: Overload:MySpace.Utilities.JsonUtil.ToJson
+  href: api/Skyline.Utilities.JsonUtil.html#Skyline_Utilities_JsonUtil_ToJson_
+  commentId: Overload:Skyline.Utilities.JsonUtil.ToJson
   isSpec: "True"
-  fullName: MySpace.Utilities.JsonUtil.ToJson
+  fullName: Skyline.Utilities.JsonUtil.ToJson
   nameWithType: JsonUtil.ToJson
-- uid: MySpace.Utilities.JsonUtil.ToObject*
+- uid: Skyline.Utilities.JsonUtil.ToObject*
   name: ToObject
-  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToObject_
-  commentId: Overload:MySpace.Utilities.JsonUtil.ToObject
+  href: api/Skyline.Utilities.JsonUtil.html#Skyline_Utilities_JsonUtil_ToObject_
+  commentId: Overload:Skyline.Utilities.JsonUtil.ToObject
   isSpec: "True"
-  fullName: MySpace.Utilities.JsonUtil.ToObject
+  fullName: Skyline.Utilities.JsonUtil.ToObject
   nameWithType: JsonUtil.ToObject
-- uid: MySpace.Utilities.JsonUtil.ToObject``1(System.String)
+- uid: Skyline.Utilities.JsonUtil.ToObject``1(System.String)
   name: ToObject<T>(String)
-  href: api/MySpace.Utilities.JsonUtil.html#MySpace_Utilities_JsonUtil_ToObject__1_System_String_
-  commentId: M:MySpace.Utilities.JsonUtil.ToObject``1(System.String)
+  href: api/Skyline.Utilities.JsonUtil.html#Skyline_Utilities_JsonUtil_ToObject__1_System_String_
+  commentId: M:Skyline.Utilities.JsonUtil.ToObject``1(System.String)
   name.vb: ToObject(Of T)(String)
-  fullName: MySpace.Utilities.JsonUtil.ToObject<T>(System.String)
-  fullName.vb: MySpace.Utilities.JsonUtil.ToObject(Of T)(System.String)
+  fullName: Skyline.Utilities.JsonUtil.ToObject<T>(System.String)
+  fullName.vb: Skyline.Utilities.JsonUtil.ToObject(Of T)(System.String)
   nameWithType: JsonUtil.ToObject<T>(String)
   nameWithType.vb: JsonUtil.ToObject(Of T)(String)
-- uid: MySpace.Utilities.Security
-  name: MySpace.Utilities.Security
-  href: api/MySpace.Utilities.Security.html
-  commentId: N:MySpace.Utilities.Security
-  fullName: MySpace.Utilities.Security
-  nameWithType: MySpace.Utilities.Security
-- uid: MySpace.Utilities.Security.Password
+- uid: Skyline.Utilities.Security
+  name: Skyline.Utilities.Security
+  href: api/Skyline.Utilities.Security.html
+  commentId: N:Skyline.Utilities.Security
+  fullName: Skyline.Utilities.Security
+  nameWithType: Skyline.Utilities.Security
+- uid: Skyline.Utilities.Security.Password
   name: Password
-  href: api/MySpace.Utilities.Security.Password.html
-  commentId: T:MySpace.Utilities.Security.Password
-  fullName: MySpace.Utilities.Security.Password
+  href: api/Skyline.Utilities.Security.Password.html
+  commentId: T:Skyline.Utilities.Security.Password
+  fullName: Skyline.Utilities.Security.Password
   nameWithType: Password
-- uid: MySpace.Utilities.Security.Password.Generate(System.Int32,System.Int32)
+- uid: Skyline.Utilities.Security.Password.Generate(System.Int32,System.Int32)
   name: Generate(Int32, Int32)
-  href: api/MySpace.Utilities.Security.Password.html#MySpace_Utilities_Security_Password_Generate_System_Int32_System_Int32_
-  commentId: M:MySpace.Utilities.Security.Password.Generate(System.Int32,System.Int32)
-  fullName: MySpace.Utilities.Security.Password.Generate(System.Int32, System.Int32)
+  href: api/Skyline.Utilities.Security.Password.html#Skyline_Utilities_Security_Password_Generate_System_Int32_System_Int32_
+  commentId: M:Skyline.Utilities.Security.Password.Generate(System.Int32,System.Int32)
+  fullName: Skyline.Utilities.Security.Password.Generate(System.Int32, System.Int32)
   nameWithType: Password.Generate(Int32, Int32)
-- uid: MySpace.Utilities.Security.Password.Generate*
+- uid: Skyline.Utilities.Security.Password.Generate*
   name: Generate
-  href: api/MySpace.Utilities.Security.Password.html#MySpace_Utilities_Security_Password_Generate_
-  commentId: Overload:MySpace.Utilities.Security.Password.Generate
+  href: api/Skyline.Utilities.Security.Password.html#Skyline_Utilities_Security_Password_Generate_
+  commentId: Overload:Skyline.Utilities.Security.Password.Generate
   isSpec: "True"
-  fullName: MySpace.Utilities.Security.Password.Generate
+  fullName: Skyline.Utilities.Security.Password.Generate
   nameWithType: Password.Generate
-- uid: MySpace.Utilities.StringExtensions
+- uid: Skyline.Utilities.StringExtensions
   name: StringExtensions
-  href: api/MySpace.Utilities.StringExtensions.html
-  commentId: T:MySpace.Utilities.StringExtensions
-  fullName: MySpace.Utilities.StringExtensions
+  href: api/Skyline.Utilities.StringExtensions.html
+  commentId: T:Skyline.Utilities.StringExtensions
+  fullName: Skyline.Utilities.StringExtensions
   nameWithType: StringExtensions
-- uid: MySpace.Utilities.StringExtensions.IsMatch(System.String,System.String)
+- uid: Skyline.Utilities.StringExtensions.IsMatch(System.String,System.String)
   name: IsMatch(String, String)
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsMatch_System_String_System_String_
-  commentId: M:MySpace.Utilities.StringExtensions.IsMatch(System.String,System.String)
-  fullName: MySpace.Utilities.StringExtensions.IsMatch(System.String, System.String)
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_IsMatch_System_String_System_String_
+  commentId: M:Skyline.Utilities.StringExtensions.IsMatch(System.String,System.String)
+  fullName: Skyline.Utilities.StringExtensions.IsMatch(System.String, System.String)
   nameWithType: StringExtensions.IsMatch(String, String)
-- uid: MySpace.Utilities.StringExtensions.IsMatch*
+- uid: Skyline.Utilities.StringExtensions.IsMatch*
   name: IsMatch
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsMatch_
-  commentId: Overload:MySpace.Utilities.StringExtensions.IsMatch
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_IsMatch_
+  commentId: Overload:Skyline.Utilities.StringExtensions.IsMatch
   isSpec: "True"
-  fullName: MySpace.Utilities.StringExtensions.IsMatch
+  fullName: Skyline.Utilities.StringExtensions.IsMatch
   nameWithType: StringExtensions.IsMatch
-- uid: MySpace.Utilities.StringExtensions.IsNullOrEmpty(System.String)
+- uid: Skyline.Utilities.StringExtensions.IsNullOrEmpty(System.String)
   name: IsNullOrEmpty(String)
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrEmpty_System_String_
-  commentId: M:MySpace.Utilities.StringExtensions.IsNullOrEmpty(System.String)
-  fullName: MySpace.Utilities.StringExtensions.IsNullOrEmpty(System.String)
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_IsNullOrEmpty_System_String_
+  commentId: M:Skyline.Utilities.StringExtensions.IsNullOrEmpty(System.String)
+  fullName: Skyline.Utilities.StringExtensions.IsNullOrEmpty(System.String)
   nameWithType: StringExtensions.IsNullOrEmpty(String)
-- uid: MySpace.Utilities.StringExtensions.IsNullOrEmpty*
+- uid: Skyline.Utilities.StringExtensions.IsNullOrEmpty*
   name: IsNullOrEmpty
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrEmpty_
-  commentId: Overload:MySpace.Utilities.StringExtensions.IsNullOrEmpty
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_IsNullOrEmpty_
+  commentId: Overload:Skyline.Utilities.StringExtensions.IsNullOrEmpty
   isSpec: "True"
-  fullName: MySpace.Utilities.StringExtensions.IsNullOrEmpty
+  fullName: Skyline.Utilities.StringExtensions.IsNullOrEmpty
   nameWithType: StringExtensions.IsNullOrEmpty
-- uid: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
+- uid: Skyline.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
   name: IsNullOrWhiteSpace(String)
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrWhiteSpace_System_String_
-  commentId: M:MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
-  fullName: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_IsNullOrWhiteSpace_System_String_
+  commentId: M:Skyline.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
+  fullName: Skyline.Utilities.StringExtensions.IsNullOrWhiteSpace(System.String)
   nameWithType: StringExtensions.IsNullOrWhiteSpace(String)
-- uid: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace*
+- uid: Skyline.Utilities.StringExtensions.IsNullOrWhiteSpace*
   name: IsNullOrWhiteSpace
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_IsNullOrWhiteSpace_
-  commentId: Overload:MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_IsNullOrWhiteSpace_
+  commentId: Overload:Skyline.Utilities.StringExtensions.IsNullOrWhiteSpace
   isSpec: "True"
-  fullName: MySpace.Utilities.StringExtensions.IsNullOrWhiteSpace
+  fullName: Skyline.Utilities.StringExtensions.IsNullOrWhiteSpace
   nameWithType: StringExtensions.IsNullOrWhiteSpace
-- uid: MySpace.Utilities.StringExtensions.Match(System.String,System.String)
+- uid: Skyline.Utilities.StringExtensions.Match(System.String,System.String)
   name: Match(String, String)
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_Match_System_String_System_String_
-  commentId: M:MySpace.Utilities.StringExtensions.Match(System.String,System.String)
-  fullName: MySpace.Utilities.StringExtensions.Match(System.String, System.String)
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_Match_System_String_System_String_
+  commentId: M:Skyline.Utilities.StringExtensions.Match(System.String,System.String)
+  fullName: Skyline.Utilities.StringExtensions.Match(System.String, System.String)
   nameWithType: StringExtensions.Match(String, String)
-- uid: MySpace.Utilities.StringExtensions.Match*
+- uid: Skyline.Utilities.StringExtensions.Match*
   name: Match
-  href: api/MySpace.Utilities.StringExtensions.html#MySpace_Utilities_StringExtensions_Match_
-  commentId: Overload:MySpace.Utilities.StringExtensions.Match
+  href: api/Skyline.Utilities.StringExtensions.html#Skyline_Utilities_StringExtensions_Match_
+  commentId: Overload:Skyline.Utilities.StringExtensions.Match
   isSpec: "True"
-  fullName: MySpace.Utilities.StringExtensions.Match
+  fullName: Skyline.Utilities.StringExtensions.Match
   nameWithType: StringExtensions.Match
-- uid: MySpace.Utilities.Validations
-  name: MySpace.Utilities.Validations
-  href: api/MySpace.Utilities.Validations.html
-  commentId: N:MySpace.Utilities.Validations
-  fullName: MySpace.Utilities.Validations
-  nameWithType: MySpace.Utilities.Validations
-- uid: MySpace.Utilities.Validations.DataAnnotationsValidator
+- uid: Skyline.Utilities.Validations
+  name: Skyline.Utilities.Validations
+  href: api/Skyline.Utilities.Validations.html
+  commentId: N:Skyline.Utilities.Validations
+  fullName: Skyline.Utilities.Validations
+  nameWithType: Skyline.Utilities.Validations
+- uid: Skyline.Utilities.Validations.DataAnnotationsValidator
   name: DataAnnotationsValidator
-  href: api/MySpace.Utilities.Validations.DataAnnotationsValidator.html
-  commentId: T:MySpace.Utilities.Validations.DataAnnotationsValidator
-  fullName: MySpace.Utilities.Validations.DataAnnotationsValidator
+  href: api/Skyline.Utilities.Validations.DataAnnotationsValidator.html
+  commentId: T:Skyline.Utilities.Validations.DataAnnotationsValidator
+  fullName: Skyline.Utilities.Validations.DataAnnotationsValidator
   nameWithType: DataAnnotationsValidator
-- uid: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object,System.Collections.Generic.ICollection{System.ComponentModel.DataAnnotations.ValidationResult})
+- uid: Skyline.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object,System.Collections.Generic.ICollection{System.ComponentModel.DataAnnotations.ValidationResult})
   name: Validate(Object, ICollection<ValidationResult>)
-  href: api/MySpace.Utilities.Validations.DataAnnotationsValidator.html#MySpace_Utilities_Validations_DataAnnotationsValidator_Validate_System_Object_System_Collections_Generic_ICollection_System_ComponentModel_DataAnnotations_ValidationResult__
-  commentId: M:MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object,System.Collections.Generic.ICollection{System.ComponentModel.DataAnnotations.ValidationResult})
+  href: api/Skyline.Utilities.Validations.DataAnnotationsValidator.html#Skyline_Utilities_Validations_DataAnnotationsValidator_Validate_System_Object_System_Collections_Generic_ICollection_System_ComponentModel_DataAnnotations_ValidationResult__
+  commentId: M:Skyline.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object,System.Collections.Generic.ICollection{System.ComponentModel.DataAnnotations.ValidationResult})
   name.vb: Validate(Object, ICollection(Of ValidationResult))
-  fullName: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object, System.Collections.Generic.ICollection<System.ComponentModel.DataAnnotations.ValidationResult>)
-  fullName.vb: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object, System.Collections.Generic.ICollection(Of System.ComponentModel.DataAnnotations.ValidationResult))
+  fullName: Skyline.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object, System.Collections.Generic.ICollection<System.ComponentModel.DataAnnotations.ValidationResult>)
+  fullName.vb: Skyline.Utilities.Validations.DataAnnotationsValidator.Validate(System.Object, System.Collections.Generic.ICollection(Of System.ComponentModel.DataAnnotations.ValidationResult))
   nameWithType: DataAnnotationsValidator.Validate(Object, ICollection<ValidationResult>)
   nameWithType.vb: DataAnnotationsValidator.Validate(Object, ICollection(Of ValidationResult))
-- uid: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate*
+- uid: Skyline.Utilities.Validations.DataAnnotationsValidator.Validate*
   name: Validate
-  href: api/MySpace.Utilities.Validations.DataAnnotationsValidator.html#MySpace_Utilities_Validations_DataAnnotationsValidator_Validate_
-  commentId: Overload:MySpace.Utilities.Validations.DataAnnotationsValidator.Validate
+  href: api/Skyline.Utilities.Validations.DataAnnotationsValidator.html#Skyline_Utilities_Validations_DataAnnotationsValidator_Validate_
+  commentId: Overload:Skyline.Utilities.Validations.DataAnnotationsValidator.Validate
   isSpec: "True"
-  fullName: MySpace.Utilities.Validations.DataAnnotationsValidator.Validate
+  fullName: Skyline.Utilities.Validations.DataAnnotationsValidator.Validate
   nameWithType: DataAnnotationsValidator.Validate
-- uid: MySpace.Utilities.Webs
-  name: MySpace.Utilities.Webs
-  href: api/MySpace.Utilities.Webs.html
-  commentId: N:MySpace.Utilities.Webs
-  fullName: MySpace.Utilities.Webs
-  nameWithType: MySpace.Utilities.Webs
-- uid: MySpace.Utilities.Webs.WebUtils
+- uid: Skyline.Utilities.Webs
+  name: Skyline.Utilities.Webs
+  href: api/Skyline.Utilities.Webs.html
+  commentId: N:Skyline.Utilities.Webs
+  fullName: Skyline.Utilities.Webs
+  nameWithType: Skyline.Utilities.Webs
+- uid: Skyline.Utilities.Webs.WebUtils
   name: WebUtils
-  href: api/MySpace.Utilities.Webs.WebUtils.html
-  commentId: T:MySpace.Utilities.Webs.WebUtils
-  fullName: MySpace.Utilities.Webs.WebUtils
+  href: api/Skyline.Utilities.Webs.WebUtils.html
+  commentId: T:Skyline.Utilities.Webs.WebUtils
+  fullName: Skyline.Utilities.Webs.WebUtils
   nameWithType: WebUtils
-- uid: MySpace.Utilities.Webs.WebUtils.#ctor(System.String,System.Int32)
+- uid: Skyline.Utilities.Webs.WebUtils.#ctor(System.String,System.Int32)
   name: WebUtils(String, Int32)
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils__ctor_System_String_System_Int32_
-  commentId: M:MySpace.Utilities.Webs.WebUtils.#ctor(System.String,System.Int32)
-  fullName: MySpace.Utilities.Webs.WebUtils.WebUtils(System.String, System.Int32)
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils__ctor_System_String_System_Int32_
+  commentId: M:Skyline.Utilities.Webs.WebUtils.#ctor(System.String,System.Int32)
+  fullName: Skyline.Utilities.Webs.WebUtils.WebUtils(System.String, System.Int32)
   nameWithType: WebUtils.WebUtils(String, Int32)
-- uid: MySpace.Utilities.Webs.WebUtils.#ctor*
+- uid: Skyline.Utilities.Webs.WebUtils.#ctor*
   name: WebUtils
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils__ctor_
-  commentId: Overload:MySpace.Utilities.Webs.WebUtils.#ctor
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils__ctor_
+  commentId: Overload:Skyline.Utilities.Webs.WebUtils.#ctor
   isSpec: "True"
-  fullName: MySpace.Utilities.Webs.WebUtils.WebUtils
+  fullName: Skyline.Utilities.Webs.WebUtils.WebUtils
   nameWithType: WebUtils.WebUtils
-- uid: MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+- uid: Skyline.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary{System.String,System.String},System.String)
   name: BuildQuery(IDictionary<String, String>, String)
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_BuildQuery_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
-  commentId: M:MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils_BuildQuery_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
+  commentId: M:Skyline.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary{System.String,System.String},System.String)
   name.vb: BuildQuery(IDictionary(Of String, String), String)
-  fullName: MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
-  fullName.vb: MySpace.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
+  fullName: Skyline.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
+  fullName.vb: Skyline.Utilities.Webs.WebUtils.BuildQuery(System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
   nameWithType: WebUtils.BuildQuery(IDictionary<String, String>, String)
   nameWithType.vb: WebUtils.BuildQuery(IDictionary(Of String, String), String)
-- uid: MySpace.Utilities.Webs.WebUtils.BuildQuery*
+- uid: Skyline.Utilities.Webs.WebUtils.BuildQuery*
   name: BuildQuery
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_BuildQuery_
-  commentId: Overload:MySpace.Utilities.Webs.WebUtils.BuildQuery
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils_BuildQuery_
+  commentId: Overload:Skyline.Utilities.Webs.WebUtils.BuildQuery
   isSpec: "True"
-  fullName: MySpace.Utilities.Webs.WebUtils.BuildQuery
+  fullName: Skyline.Utilities.Webs.WebUtils.BuildQuery
   nameWithType: WebUtils.BuildQuery
-- uid: MySpace.Utilities.Webs.WebUtils.GetAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+- uid: Skyline.Utilities.Webs.WebUtils.GetAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
   name: GetAsync(String, IDictionary<String, String>, String)
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_GetAsync_System_String_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
-  commentId: M:MySpace.Utilities.Webs.WebUtils.GetAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils_GetAsync_System_String_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
+  commentId: M:Skyline.Utilities.Webs.WebUtils.GetAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
   name.vb: GetAsync(String, IDictionary(Of String, String), String)
-  fullName: MySpace.Utilities.Webs.WebUtils.GetAsync(System.String, System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
-  fullName.vb: MySpace.Utilities.Webs.WebUtils.GetAsync(System.String, System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
+  fullName: Skyline.Utilities.Webs.WebUtils.GetAsync(System.String, System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
+  fullName.vb: Skyline.Utilities.Webs.WebUtils.GetAsync(System.String, System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
   nameWithType: WebUtils.GetAsync(String, IDictionary<String, String>, String)
   nameWithType.vb: WebUtils.GetAsync(String, IDictionary(Of String, String), String)
-- uid: MySpace.Utilities.Webs.WebUtils.GetAsync*
+- uid: Skyline.Utilities.Webs.WebUtils.GetAsync*
   name: GetAsync
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_GetAsync_
-  commentId: Overload:MySpace.Utilities.Webs.WebUtils.GetAsync
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils_GetAsync_
+  commentId: Overload:Skyline.Utilities.Webs.WebUtils.GetAsync
   isSpec: "True"
-  fullName: MySpace.Utilities.Webs.WebUtils.GetAsync
+  fullName: Skyline.Utilities.Webs.WebUtils.GetAsync
   nameWithType: WebUtils.GetAsync
-- uid: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+- uid: Skyline.Utilities.Webs.WebUtils.PostAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
   name: PostAsync(String, IDictionary<String, String>, String)
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_PostAsync_System_String_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
-  commentId: M:MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils_PostAsync_System_String_System_Collections_Generic_IDictionary_System_String_System_String__System_String_
+  commentId: M:Skyline.Utilities.Webs.WebUtils.PostAsync(System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String)
   name.vb: PostAsync(String, IDictionary(Of String, String), String)
-  fullName: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String, System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
-  fullName.vb: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String, System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
+  fullName: Skyline.Utilities.Webs.WebUtils.PostAsync(System.String, System.Collections.Generic.IDictionary<System.String, System.String>, System.String)
+  fullName.vb: Skyline.Utilities.Webs.WebUtils.PostAsync(System.String, System.Collections.Generic.IDictionary(Of System.String, System.String), System.String)
   nameWithType: WebUtils.PostAsync(String, IDictionary<String, String>, String)
   nameWithType.vb: WebUtils.PostAsync(String, IDictionary(Of String, String), String)
-- uid: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.String,System.String)
+- uid: Skyline.Utilities.Webs.WebUtils.PostAsync(System.String,System.String,System.String)
   name: PostAsync(String, String, String)
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_PostAsync_System_String_System_String_System_String_
-  commentId: M:MySpace.Utilities.Webs.WebUtils.PostAsync(System.String,System.String,System.String)
-  fullName: MySpace.Utilities.Webs.WebUtils.PostAsync(System.String, System.String, System.String)
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils_PostAsync_System_String_System_String_System_String_
+  commentId: M:Skyline.Utilities.Webs.WebUtils.PostAsync(System.String,System.String,System.String)
+  fullName: Skyline.Utilities.Webs.WebUtils.PostAsync(System.String, System.String, System.String)
   nameWithType: WebUtils.PostAsync(String, String, String)
-- uid: MySpace.Utilities.Webs.WebUtils.PostAsync*
+- uid: Skyline.Utilities.Webs.WebUtils.PostAsync*
   name: PostAsync
-  href: api/MySpace.Utilities.Webs.WebUtils.html#MySpace_Utilities_Webs_WebUtils_PostAsync_
-  commentId: Overload:MySpace.Utilities.Webs.WebUtils.PostAsync
+  href: api/Skyline.Utilities.Webs.WebUtils.html#Skyline_Utilities_Webs_WebUtils_PostAsync_
+  commentId: Overload:Skyline.Utilities.Webs.WebUtils.PostAsync
   isSpec: "True"
-  fullName: MySpace.Utilities.Webs.WebUtils.PostAsync
+  fullName: Skyline.Utilities.Webs.WebUtils.PostAsync
   nameWithType: WebUtils.PostAsync
-- uid: MySpace.Utilities.XmlSerializeOptions
+- uid: Skyline.Utilities.XmlSerializeOptions
   name: XmlSerializeOptions
-  href: api/MySpace.Utilities.XmlSerializeOptions.html
-  commentId: T:MySpace.Utilities.XmlSerializeOptions
-  fullName: MySpace.Utilities.XmlSerializeOptions
+  href: api/Skyline.Utilities.XmlSerializeOptions.html
+  commentId: T:Skyline.Utilities.XmlSerializeOptions
+  fullName: Skyline.Utilities.XmlSerializeOptions
   nameWithType: XmlSerializeOptions
-- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+- uid: Skyline.Utilities.XmlSerializeOptions.OmitXmlDeclaration
   name: OmitXmlDeclaration
-  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlDeclaration
-  commentId: P:MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
-  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  href: api/Skyline.Utilities.XmlSerializeOptions.html#Skyline_Utilities_XmlSerializeOptions_OmitXmlDeclaration
+  commentId: P:Skyline.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  fullName: Skyline.Utilities.XmlSerializeOptions.OmitXmlDeclaration
   nameWithType: XmlSerializeOptions.OmitXmlDeclaration
-- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration*
+- uid: Skyline.Utilities.XmlSerializeOptions.OmitXmlDeclaration*
   name: OmitXmlDeclaration
-  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlDeclaration_
-  commentId: Overload:MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  href: api/Skyline.Utilities.XmlSerializeOptions.html#Skyline_Utilities_XmlSerializeOptions_OmitXmlDeclaration_
+  commentId: Overload:Skyline.Utilities.XmlSerializeOptions.OmitXmlDeclaration
   isSpec: "True"
-  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlDeclaration
+  fullName: Skyline.Utilities.XmlSerializeOptions.OmitXmlDeclaration
   nameWithType: XmlSerializeOptions.OmitXmlDeclaration
-- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+- uid: Skyline.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
   name: OmitXmlSerializerNamespaces
-  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlSerializerNamespaces
-  commentId: P:MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
-  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  href: api/Skyline.Utilities.XmlSerializeOptions.html#Skyline_Utilities_XmlSerializeOptions_OmitXmlSerializerNamespaces
+  commentId: P:Skyline.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  fullName: Skyline.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
   nameWithType: XmlSerializeOptions.OmitXmlSerializerNamespaces
-- uid: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces*
+- uid: Skyline.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces*
   name: OmitXmlSerializerNamespaces
-  href: api/MySpace.Utilities.XmlSerializeOptions.html#MySpace_Utilities_XmlSerializeOptions_OmitXmlSerializerNamespaces_
-  commentId: Overload:MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  href: api/Skyline.Utilities.XmlSerializeOptions.html#Skyline_Utilities_XmlSerializeOptions_OmitXmlSerializerNamespaces_
+  commentId: Overload:Skyline.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
   isSpec: "True"
-  fullName: MySpace.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
+  fullName: Skyline.Utilities.XmlSerializeOptions.OmitXmlSerializerNamespaces
   nameWithType: XmlSerializeOptions.OmitXmlSerializerNamespaces
-- uid: MySpace.Utilities.XmlUtil
+- uid: Skyline.Utilities.XmlUtil
   name: XmlUtil
-  href: api/MySpace.Utilities.XmlUtil.html
-  commentId: T:MySpace.Utilities.XmlUtil
-  fullName: MySpace.Utilities.XmlUtil
+  href: api/Skyline.Utilities.XmlUtil.html
+  commentId: T:Skyline.Utilities.XmlUtil
+  fullName: Skyline.Utilities.XmlUtil
   nameWithType: XmlUtil
-- uid: MySpace.Utilities.XmlUtil.ToObject*
+- uid: Skyline.Utilities.XmlUtil.ToObject*
   name: ToObject
-  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToObject_
-  commentId: Overload:MySpace.Utilities.XmlUtil.ToObject
+  href: api/Skyline.Utilities.XmlUtil.html#Skyline_Utilities_XmlUtil_ToObject_
+  commentId: Overload:Skyline.Utilities.XmlUtil.ToObject
   isSpec: "True"
-  fullName: MySpace.Utilities.XmlUtil.ToObject
+  fullName: Skyline.Utilities.XmlUtil.ToObject
   nameWithType: XmlUtil.ToObject
-- uid: MySpace.Utilities.XmlUtil.ToObject``1(System.String)
+- uid: Skyline.Utilities.XmlUtil.ToObject``1(System.String)
   name: ToObject<T>(String)
-  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToObject__1_System_String_
-  commentId: M:MySpace.Utilities.XmlUtil.ToObject``1(System.String)
+  href: api/Skyline.Utilities.XmlUtil.html#Skyline_Utilities_XmlUtil_ToObject__1_System_String_
+  commentId: M:Skyline.Utilities.XmlUtil.ToObject``1(System.String)
   name.vb: ToObject(Of T)(String)
-  fullName: MySpace.Utilities.XmlUtil.ToObject<T>(System.String)
-  fullName.vb: MySpace.Utilities.XmlUtil.ToObject(Of T)(System.String)
+  fullName: Skyline.Utilities.XmlUtil.ToObject<T>(System.String)
+  fullName.vb: Skyline.Utilities.XmlUtil.ToObject(Of T)(System.String)
   nameWithType: XmlUtil.ToObject<T>(String)
   nameWithType.vb: XmlUtil.ToObject(Of T)(String)
-- uid: MySpace.Utilities.XmlUtil.ToXml(System.Object,MySpace.Utilities.XmlSerializeOptions)
+- uid: Skyline.Utilities.XmlUtil.ToXml(System.Object,Skyline.Utilities.XmlSerializeOptions)
   name: ToXml(Object, XmlSerializeOptions)
-  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToXml_System_Object_MySpace_Utilities_XmlSerializeOptions_
-  commentId: M:MySpace.Utilities.XmlUtil.ToXml(System.Object,MySpace.Utilities.XmlSerializeOptions)
-  fullName: MySpace.Utilities.XmlUtil.ToXml(System.Object, MySpace.Utilities.XmlSerializeOptions)
+  href: api/Skyline.Utilities.XmlUtil.html#Skyline_Utilities_XmlUtil_ToXml_System_Object_Skyline_Utilities_XmlSerializeOptions_
+  commentId: M:Skyline.Utilities.XmlUtil.ToXml(System.Object,Skyline.Utilities.XmlSerializeOptions)
+  fullName: Skyline.Utilities.XmlUtil.ToXml(System.Object, Skyline.Utilities.XmlSerializeOptions)
   nameWithType: XmlUtil.ToXml(Object, XmlSerializeOptions)
-- uid: MySpace.Utilities.XmlUtil.ToXml*
+- uid: Skyline.Utilities.XmlUtil.ToXml*
   name: ToXml
-  href: api/MySpace.Utilities.XmlUtil.html#MySpace_Utilities_XmlUtil_ToXml_
-  commentId: Overload:MySpace.Utilities.XmlUtil.ToXml
+  href: api/Skyline.Utilities.XmlUtil.html#Skyline_Utilities_XmlUtil_ToXml_
+  commentId: Overload:Skyline.Utilities.XmlUtil.ToXml
   isSpec: "True"
-  fullName: MySpace.Utilities.XmlUtil.ToXml
+  fullName: Skyline.Utilities.XmlUtil.ToXml
   nameWithType: XmlUtil.ToXml

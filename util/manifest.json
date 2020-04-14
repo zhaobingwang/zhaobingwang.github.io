@@ -1,15 +1,15 @@
 {
   "homepages": [],
-  "source_base_path": "C:/repository/MySpace/.docfx/MySpace.Utilities/docfx_project",
+  "source_base_path": "C:/repository/Skyline/.docfx/Skyline.Utilities/docfx_project",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.DateTimeExtensions.yml",
+      "source_relative_path": "api/Skyline.Utilities.DateTimeExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.DateTimeExtensions.html",
-          "hash": "dfntkdQEqOZIwQDxsIz1UQ=="
+          "relative_path": "api/Skyline.Utilities.DateTimeExtensions.html",
+          "hash": "oqrG8F3uZ8gqq4YgLkMOvA=="
         }
       },
       "is_incremental": false,
@@ -17,11 +17,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.JsonUtil.yml",
+      "source_relative_path": "api/Skyline.Utilities.JsonUtil.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.JsonUtil.html",
-          "hash": "DoyTAJVU8xRm4FntLL/ifg=="
+          "relative_path": "api/Skyline.Utilities.JsonUtil.html",
+          "hash": "/L93BQCW1ngDK+hKqPwvwA=="
         }
       },
       "is_incremental": false,
@@ -29,11 +29,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.Security.Password.yml",
+      "source_relative_path": "api/Skyline.Utilities.Security.Password.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.Security.Password.html",
-          "hash": "aLS2koIcM+Ri7sFWfoLnnQ=="
+          "relative_path": "api/Skyline.Utilities.Security.Password.html",
+          "hash": "68P4u1Tbw6iJujy41t2HYg=="
         }
       },
       "is_incremental": false,
@@ -41,11 +41,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.Security.yml",
+      "source_relative_path": "api/Skyline.Utilities.Security.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.Security.html",
-          "hash": "W2su7Mu98R1TGWEiNThrcQ=="
+          "relative_path": "api/Skyline.Utilities.Security.html",
+          "hash": "+WK2S+Y8UitsBd/9FGZVcg=="
         }
       },
       "is_incremental": false,
@@ -53,11 +53,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.StringExtensions.yml",
+      "source_relative_path": "api/Skyline.Utilities.StringExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.StringExtensions.html",
-          "hash": "0MnKB+Ntx84JEa/o/WycLw=="
+          "relative_path": "api/Skyline.Utilities.StringExtensions.html",
+          "hash": "rIMubAwRZ4L4i6mNW6pnHw=="
         }
       },
       "is_incremental": false,
@@ -65,11 +65,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.Validations.DataAnnotationsValidator.yml",
+      "source_relative_path": "api/Skyline.Utilities.Validations.DataAnnotationsValidator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.Validations.DataAnnotationsValidator.html",
-          "hash": "pKgCU9kj4g4GYbb4KMxKMg=="
+          "relative_path": "api/Skyline.Utilities.Validations.DataAnnotationsValidator.html",
+          "hash": "HjiL+V0L6KeGtWlRCYs0jA=="
         }
       },
       "is_incremental": false,
@@ -77,11 +77,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.Validations.yml",
+      "source_relative_path": "api/Skyline.Utilities.Validations.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.Validations.html",
-          "hash": "MmnbahU7mzKuYThfhF6+gA=="
+          "relative_path": "api/Skyline.Utilities.Validations.html",
+          "hash": "x8eEVqsgSG0q51/5e7+Wew=="
         }
       },
       "is_incremental": false,
@@ -89,11 +89,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.Webs.WebUtils.yml",
+      "source_relative_path": "api/Skyline.Utilities.Webs.WebUtils.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.Webs.WebUtils.html",
-          "hash": "laKuNzl6pByfvCGc0Dtymg=="
+          "relative_path": "api/Skyline.Utilities.Webs.WebUtils.html",
+          "hash": "i125gMLkdL1tOzAQZjUaRA=="
         }
       },
       "is_incremental": false,
@@ -101,11 +101,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.Webs.yml",
+      "source_relative_path": "api/Skyline.Utilities.Webs.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.Webs.html",
-          "hash": "hyTUxB14u/zglMwqg32dew=="
+          "relative_path": "api/Skyline.Utilities.Webs.html",
+          "hash": "en+S77W3I44+EWDDRx+NtA=="
         }
       },
       "is_incremental": false,
@@ -113,11 +113,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.XmlSerializeOptions.yml",
+      "source_relative_path": "api/Skyline.Utilities.XmlSerializeOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.XmlSerializeOptions.html",
-          "hash": "mtC2YQ/tTjNWlOva/JyN6Q=="
+          "relative_path": "api/Skyline.Utilities.XmlSerializeOptions.html",
+          "hash": "W0hcOYhHrSlHeblwhZR6Hg=="
         }
       },
       "is_incremental": false,
@@ -125,11 +125,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.XmlUtil.yml",
+      "source_relative_path": "api/Skyline.Utilities.XmlUtil.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.XmlUtil.html",
-          "hash": "NzSoiLLfcX9crYpqnPfiTQ=="
+          "relative_path": "api/Skyline.Utilities.XmlUtil.html",
+          "hash": "E/zTeHMrCzdx9UrappUBEA=="
         }
       },
       "is_incremental": false,
@@ -137,11 +137,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MySpace.Utilities.yml",
+      "source_relative_path": "api/Skyline.Utilities.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MySpace.Utilities.html",
-          "hash": "veD5f3uBGXgNheyXok4LJw=="
+          "relative_path": "api/Skyline.Utilities.html",
+          "hash": "2+xDcgorVhRGsazmFMYhZw=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "IBepJvo/eyFwdy2oDy+4Mg=="
+          "hash": "7tWR0f9hJfsm+BRlym6uXg=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "KYBBM/6Wi0QvPVaYngGPCg=="
+          "hash": "7hgY/kBzWD8X2eQerhozjQ=="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "OsSfcPGv7h6B8uaK/7fmMw=="
+          "hash": "I5hFgsMNaa8QNOtRft+itA=="
         }
       },
       "is_incremental": true,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Z+X2ybP/WsPLBAfAVo0LSg=="
+          "hash": "4EZvC37yeW3jiKPjG/3/eA=="
         }
       },
       "is_incremental": true,
@@ -236,18 +236,18 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
           "incrementalPhase": "build",
           "total_file_count": 12,
           "skipped_file_count": 0
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 3
         }
       }
     },
